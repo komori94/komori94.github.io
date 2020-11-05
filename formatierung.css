@@ -1,0 +1,21 @@
+ body{
+	 background-color: blue;
+	 front_family: 'comic sans ms';
+}
+ 
+ h1{
+	 text-align: center;
+	 color: red;
+ }
+ 
+  h2{
+	 text-align: left;
+	 color: white;
+ }
+ 
+  p{
+	 text-align: left;
+	 color: white;
+ }
+ 
+ 
