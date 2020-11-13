@@ -1,21 +1,32 @@
  body{
-	 background-color: blue;
-	 front_family: 'comic sans ms';
+	 background-color: rgb(104, 231, 168);
+	 font-family: 'verdana';
 }
  
  h1{
-	 text-align: center;
-	 color: red;
+	
+	 color: rgb(3, 66, 8);
+	 padding-left: 10px;
+	 background-color: peru;
+	 font-size: 50px;
  }
  
   h2{
 	 text-align: left;
-	 color: white;
+	 color: rgb(56, 23, 23);
+	 padding-left: 10px;
  }
  
   p{
 	 text-align: left;
-	 color: white;
+	 color: rgb(0, 0, 0);
  }
  
- 
+ #menueleiste li{
+	list-style-type: upper-roman;
+    float: left;
+	width: 150px;
+	
+
+	
+}
